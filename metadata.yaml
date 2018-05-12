@@ -1,0 +1,26 @@
+_repo: The-Motion-Picture-Chums-at-Seaside-ParkThe-Rival-Photo-Theatres-of-the-Boardwalk_36964
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Appleton, Victor
+    gutenberg_agent_id: '267'
+    url: http://www.gutenberg.org/2009/agents/267
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Appleton
+description: ''
+gutenberg_issued: '2011-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36964'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Motion picture theaters -- Juvenile fiction'
+title: "The Motion Picture Chums at Seaside Park\r\nOr, The Rival Photo Theatres of\
+  \ the Boardwalk"
+url: http://www.gutenberg.org/ebooks/36964
